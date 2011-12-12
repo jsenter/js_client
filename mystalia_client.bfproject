@@ -1,0 +1,17 @@
+name: mystalia_client
+files: /var/www/index.php
+files: /var/www/js/client.js
+files: /var/www/js/maplogic.js
+basedir: /var/www/
+webdir: 
+template: 
+word_wrap: 0
+searchlist: InitiallyLoadPlayer
+recent_files: /var/www/index.php
+recent_files: /var/www/js/client.js
+recent_files: /var/www/js/maplogic.js
+opendir: /var/www
+view_html_toolbar: 1
+view_custom_menu: 1
+view_main_toolbar: 1
+view_left_panel: 1
